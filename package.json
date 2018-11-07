@@ -2,5 +2,13 @@
   "name": "veight",
   "description": "Javascript framework for making awesome websites.",
   "version": "1.0.0",
-  "main": "./index.js"
+  "browser": "./index.js",
+  "author": "Zack Pace"
+  "bugs": { 
+    "url" : "https://github.com/veightjs/veight/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/veightjs/veight.git"
+  }
 }
