@@ -3,7 +3,7 @@
   "description": "Javascript framework for making awesome websites.",
   "version": "1.0.0",
   "browser": "./index.js",
-  "author": "Zack Pace"
+  "author": "Zack Pace",
   "bugs": { 
     "url" : "https://github.com/veightjs/veight/issues"
   },
