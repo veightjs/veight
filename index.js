@@ -103,3 +103,5 @@ veight.sh.classname = function(str) {
 veight.sh.variable = function(str) {
   return veight.str(str,"#e90")
 }
+
+module.exports = veight;
