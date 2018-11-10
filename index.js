@@ -35,9 +35,13 @@ veight.component = function(n,callback) {
 // Write function
 veight.write = function(str,color) {
   if(color) {
+    document.open()
     document.write("<font color=\"" + color + "\">" + str + "</font>")
+    document.close()
   } else {
+    document.open()
     document.write(str)
+    document.close
   }
 
 }
